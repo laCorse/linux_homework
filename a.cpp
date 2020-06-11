@@ -22,7 +22,7 @@ void scoot_over(int jj)
  
 void insert(int new_y)
 { 
-   if (num_y = 0)
+   if (num_y == 0)
    {
       y[0] = new_y;
       return;
